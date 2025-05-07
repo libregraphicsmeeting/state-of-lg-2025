@@ -14,7 +14,8 @@ The notes preferably should be in .txt or .md (Markdown) format, images preferab
 
 Please also label your images and slides if necessary using the filename with numbers.
 
-*You know what would be really cool? If you make your slides using your project's software!*
+*You know what would be really cool? If you make your slides using your project's software!*   
+-> if because of this the slide dimensions or format deviates from the norm, that's fine, I'll adapt it into the presentation
 
 This repository contains a [sample-project](sample-project/) directory with a set of empty files that you can build upon.
 
