@@ -26,4 +26,4 @@ Please provide your project's slides through a pull request to this repository o
 
 Content should be submitted before **May 21st 2025**. However, **THE EARLIER THE BETTER** (and easier)! Thanks!
 
-If you know of any other libre-graphics projects that should be included, please mention in the issue tracker! (still compiling a list, wip)
+If you know of any other libre-graphics projects that should be included, please mention in the [issue tracker](https://github.com/libregraphicsmeeting/state-of-lg-2025/issues/1)! (still finishing compiling the list, wip)
