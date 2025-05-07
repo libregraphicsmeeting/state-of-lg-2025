@@ -14,6 +14,8 @@ The notes preferably should be in .txt or .md (Markdown) format, images preferab
 
 Please also label your images and slides if necessary using the filename with numbers.
 
+*You know what would be really cool? If you make your slides using your project's software!*
+
 This repository contains a [sample-project](sample-project/) directory with a set of empty files that you can build upon.
 
 If you're wondering what you should put on the slides, you can watch the [State of Libre Graphics 2019](https://www.youtube.com/watch?v=hO2cMcY_Xv8) or browse through the [2019 repository](https://github.com/libregraphicsmeeting/state-of-lg-2019) / [watch the 2018 presentation](https://www.youtube.com/watch?v=HDeUAqWTW5g)
