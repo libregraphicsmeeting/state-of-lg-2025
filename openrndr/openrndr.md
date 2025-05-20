@@ -8,7 +8,8 @@
 
 **Playful for prototypes. Serious for production.**
 
-OPENRNDR is an open source framework for creative coding, written in Kotlin that simplifies writing real-time interactive software.
+OPENRNDR is a Kotlin cross-platform open source framework for creative coding and
+real-time interaction.
 
 ### Further links
 
@@ -25,10 +26,11 @@ OPENRNDR is an open source framework for creative coding, written in Kotlin that
 - Add GLES back-end with Angle integration improving OPENRNDR in Apple computers.
 - Make textures and targets use sRGB by default.
 - Add [orx-fcurve](https://github.com/openrndr/orx/tree/master/orx-fcurve) which
-  facilitates creating 1 dimensional function curves from SVG's path language-like strings.
+  facilitates creating 1 dimensional function curves for animation and other
+  uses.
 - Add [orx-expression-evaluator](https://github.com/openrndr/orx/tree/master/orx-expression-evaluator): tools to evaluate strings containing mathematical expressions.
 - Improve [orx-shade-styles](https://github.com/openrndr/orx/tree/master/orx-shade-styles) with clipping, composition, gradients, image fills, noise, patterns and more.
-- Over 900 commits with new features, updates and fixes since May 1st, 2024.
+- Over 900 commits with new features, updates and fixes since May 2024.
 
 ---
 
@@ -44,6 +46,6 @@ OPENRNDR is an open source framework for creative coding, written in Kotlin that
 
 ## Presence at the LGM
 
-- Abe Pazos Solatie - Graphics and Creative Coding on the JVM. 
+- [Abe Pazos Solatie](https://hamoid.com) - Graphics and Creative Coding on the JVM. 
   BoF, Saturday 31st at 13:20.
 
