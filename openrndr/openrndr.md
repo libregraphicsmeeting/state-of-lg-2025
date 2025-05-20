@@ -22,7 +22,13 @@ OPENRNDR is an open source framework for creative coding, written in Kotlin that
 
 ![](openrndr-1.png)
 
-(Tell what your project did last year and what cool things you've accomplished.)
+- Add GLES back-end with Angle integration improving OPENRNDR in Apple computers.
+- Make textures and targets use sRGB by default.
+- Add [orx-fcurve](https://github.com/openrndr/orx/tree/master/orx-fcurve) which
+  facilitates creating 1 dimensional function curves from SVG's path language-like strings.
+- Add [orx-expression-evaluator](https://github.com/openrndr/orx/tree/master/orx-expression-evaluator): tools to evaluate strings containing mathematical expressions.
+- Improve [orx-shade-styles](https://github.com/openrndr/orx/tree/master/orx-shade-styles) with clipping, composition, gradients, image fills, noise, patterns and more.
+- Over 900 commits with new features, updates and fixes since May 1st, 2024.
 
 ---
 
@@ -30,7 +36,9 @@ OPENRNDR is an open source framework for creative coding, written in Kotlin that
 
 ![](openrndr-2.png)
 
-(Tell what are your project's plans for the future.)
+- Release OPENRNDR/ORX 0.4.5
+- WebGPU backend
+- [orx-axidraw](https://github.com/openrndr/orx/pull/356)
 
 ---
 
