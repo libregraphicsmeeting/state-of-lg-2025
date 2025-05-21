@@ -4,12 +4,10 @@
 
 ## Slide 0
 
-![](openrndr-0.png)
+![](openrndr-0.webp)
 
 **Playful for prototypes. Serious for production.**
 
-OPENRNDR is a Kotlin cross-platform open source framework for creative coding and
-real-time interaction.
 
 ### Further links
 
@@ -19,24 +17,31 @@ real-time interaction.
 
 ---
 
-## Slide 1 - Changelog
+## Slide 1 - About
 
-![](openrndr-1.png)
+![](openrndr-1.webp)
 
-- Add GLES back-end with Angle integration improving OPENRNDR in Apple computers.
-- Make textures and targets use sRGB by default.
-- Add [orx-fcurve](https://github.com/openrndr/orx/tree/master/orx-fcurve) which
-  facilitates creating 1 dimensional function curves for animation and other
-  uses.
-- Add [orx-expression-evaluator](https://github.com/openrndr/orx/tree/master/orx-expression-evaluator): tools to evaluate strings containing mathematical expressions.
-- Improve [orx-shade-styles](https://github.com/openrndr/orx/tree/master/orx-shade-styles) with clipping, composition, gradients, image fills, noise, patterns and more.
-- Over 900 commits with new features, updates and fixes since May 2024.
+- Feature rich FOSS framework for creative coding and real-time interaction.
+- Runs on Linux, Windows, Mac and in the browser.
+- Built with Kotlin, GLSL and Gradle.
+- It is modular, featuring 319 packages in Maven Central.
+- Open sourced in 2018. Over 900 commits since May 2024.
+
+## Slide 2 - Changelog
+
+![](openrndr-2.webp)
+
+- Support Apple ARM64 CPU via GLES and Angle.
+- sRGB textures by default.
+- Added [fcurves](https://github.com/openrndr/orx/tree/master/orx-fcurve).
+- Added a mathematical string [expression evaluator](https://github.com/openrndr/orx/tree/master/orx-expression-evaluator).
+- New [shader features](https://github.com/openrndr/orx/tree/master/orx-shade-styles): clipping, composition, gradients, image fills, noise and patterns.
 
 ---
 
-## Slide 2 - Roadmap
+## Slide 3 - Roadmap
 
-![](openrndr-2.png)
+![](openrndr-3.webp)
 
 - Release OPENRNDR/ORX 0.4.5
 - WebGPU backend
