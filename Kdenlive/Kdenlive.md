@@ -18,7 +18,7 @@ Kdenlive is a powerful video editor made by the KDE community.
 ![](kdenlive-1.png)
 
 Speakers Notes:  
-Kdenlive 24.05 is the first release after the Qt6 upgrade. It reimplements the Audio Capture feature and focuses on enhancing stability while introducing a few exciting new features like Group Effects and Automatic Subtitle Translations. 
+Kdenlive had 4 major releases in the last year followed by monthly bug fix releases. 24.05 is the first release after the Qt6 upgrade. It reimplements the Audio Capture feature and focuses on enhancing stability while introducing a few exciting new features like Group Effects and Automatic Subtitle Translations. 
 
 ---
 
@@ -27,7 +27,7 @@ Kdenlive 24.05 is the first release after the Qt6 upgrade. It reimplements the A
 ![](kdenlive-2.png)
 
 Speakers Notes:  
-24.08 comes with nifty new features, enhancements, and quality-of-life improvements, specially for Effects and Transitions. 
+24.08 came with nifty new features, enhancements, and quality-of-life improvements, specially for Effects and Transitions. 
 
 ---
 
@@ -44,7 +44,7 @@ Numerous crashes and glitches have been addressed, including issues with audio c
 ![](kdenlive-4.png)
 
 Speakers Notes:  
-The latest and most stable Kdenlive release is a great foundation for many exciting new features.
+25.04 is the latest and most stable Kdenlive release and is a great foundation for the upcoming new features.
 
 ---
 
