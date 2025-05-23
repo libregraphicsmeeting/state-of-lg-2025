@@ -1,58 +1,58 @@
-# Kdenlive
-
-
-- Name of project, project logo/branding, and a short one or two sentence description of the project.
-- A title slide/hero shot and/or picture of the software in use, preferably size 1920x1080.
-    - If feel the need for more images to include in the presentatin, feel free.
-- Changes/changelog in the last year, and plans for the future.
-- Speaker notes for any additional information or specifications you want me to say.
-
-This file will contain the speaker's notes.
-
-The speaker's notes should provide to the speaker the information to fill about 60 to 90 seconds.
-
-Please, replace the content of this file with the information about what happened in your project since the last LGM.
-
----
-
 ## Slide 0
 
-Introductory Slide: Just an image (Logo and or general screenshot, ...)
+![](kdenlive-0.png)
 
-![](sample-project-0.png)
-
-A short one or two sentence description of the project
+Kdenlive is a powerful video editor made by the KDE community. 
 
 ### Further links
 
-- Website: <http://sample-project.org>
-- Dicussion: <http://sample-project.org>
-- Code: <http://sample-project.org>
+- Website: <https://kdenlive.org>
+- Dicussion: <https://discuss.kde.org/tag/kdenlive>
+- Code: <https://invent.kde.org/multimedia/kdenlive>
+- Chat: <https://matrix.to/#/#kdenlive:kde.org>
 
 ---
 
-## Slide 1 - Changelog
+## Slide 1 - Release 1 
 
-![](sample-project-1.png)
+![](kdenlive-1.png)
 
 Speakers Notes:  
-Tell what your project did last year and what cool things you've accomplished.
+Kdenlive 24.05 is the first release after the Qt6 upgrade. It reimplements the Audio Capture feature and focuses on enhancing stability while introducing a few exciting new features like Group Effects and Automatic Subtitle Translations. 
 
 ---
 
-## Slide 2 - Roadmap
+## Slide 2 - Release 2
 
-![](sample-project-1.png)
+![](kdenlive-2.png)
 
 Speakers Notes:  
-Tell what are your project's plans for the future.
+24.08 comes with nifty new features, enhancements, and quality-of-life improvements, specially for Effects and Transitions. 
 
 ---
 
-## Presence at the LGM
+## Slide 3 - Release 3
 
-If you're at the LGM please list the project's people (names or number of) who are present at the LGM and the talks / activities that you will be proposing.
+![](kdenlive-3.png)
 
-- Person 1
-- Person 2
+Numerous crashes and glitches have been addressed, including issues with audio capture, effect zones, high DPI display rendering, and subtitle editing. 
 
+---
+
+## Slide 4 - Release 4
+
+![](kdenlive-4.png)
+
+Speakers Notes:  
+The latest and most stable Kdenlive release is a great foundation for many exciting new features.
+
+---
+
+## Slide 5 - Roadmap
+
+![](kdenlive-5.png)
+
+Speakers Notes:  
+In the last year Kdenlive got 2 news developers to the team. They also participated in a Season of KDE mentorship program and have an upcoming Google Summer of Code project. The team is planning a sprint and community meeting in Berlin in September during Akademy. Short and mid term roadmap features include:
+
+---
