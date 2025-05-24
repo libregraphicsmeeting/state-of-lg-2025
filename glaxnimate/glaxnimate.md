@@ -2,7 +2,7 @@
 
 ## Slide 0
 
-![](glaxnimate.png)
+![](glaxnimate-0.png)
 
 Glaxnimate is an open source animation editor focused on vector graphics.
 
@@ -16,6 +16,8 @@ Further Links:
 ---
 
 ## Slide 1 - Ongoing Projects
+
+![](glaxnimate-1.png)
 
 Speakers note:
 
