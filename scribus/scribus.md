@@ -30,6 +30,8 @@ The first 1.7 development preview has been released at the beginning of this yea
   - Reworked most of the important parts of the UI: compact, intuitive, usable, coherent, nicer (WIP): most panes can be kept docked all the time.
   - Support for Hi-DPI (SVG icons).
   - Support for dark themes.
-  - Style based table of contents.
+  - Style based table of contents and indexing.
   - Scripting covers most Scribus features and scripts can be started from the menus or the "Action search".
   - Saving to older file formats.
+  - Hundreds of new page size presets
+  - Customizable rule definition for optical margins
