@@ -1,0 +1,12 @@
+[Slide 0]
+
+Krita is a digital painting application used by millions of people all over the world. Krita runs on Linux, Windows, macOS, Android and ChromeOS
+
+[Slide 1]
+
+We're working on Krita 6.0, which will run on Qt6. Technically, that's a big challenge, but it builds and works. We're also prototyping a touch device friendly user interface for tablets and phones.
+
+[Slide 3]
+
+In the past five years, there have been numerous improvements, rewrites, ports to Qt5 and Qt6. Of these the new text object with on-canvas editing and opentype support is one of the biggest, but the resource system got rewritten, there have been performance improvements and lots and lots of bug fixes.
+
